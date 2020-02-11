@@ -26,23 +26,44 @@ class Musics {
     constructor() {
         this.songs = [{
                 id: 1,
-                title: 'Driving Home for Christmas',
+                title: 'Receive',
                 singer: 'Campsite Dream',
-                songUrl: './songs/EarthMadeInEssenceSita.mp3',
+                songUrl: './songs/Receive.mp3',
                 imageUrl: './images/songs/c.jpg'
             },
             {
                 id: 2,
-                title: '认真的雪',
-                singer: '薛之谦',
-                songUrl: './songs/song.mp3',
-                imageUrl: './images/songs/renzhendexue.jpg'
+                title: 'Omnama shivaya',
+                singer: 'Omnamashivaya',
+                songUrl: './songs/Omnamashivaya.mp3',
+                imageUrl: './images/songs/c.jpg'
             },
             {
                 id: 3,
-                title: '演员',
-                singer: '薛之谦',
-                songUrl: './songs/song.mp3',
+                title: 'journey Mix',
+                singer: 'journeyMix',
+                songUrl: './songs/journeyMix.mp3',
+                imageUrl: './images/songs/yanyuan.jpg'
+            },
+            {
+                id: 4,
+                title: 'AnandajayiMa',
+                singer: 'AnandajayiMa',
+                songUrl: './songs/AnandajayiMa.mp3',
+                imageUrl: './images/songs/aadc.jpg'
+            },
+            {
+                id: 5,
+                title: 'Sri Krishna',
+                singer: 'SriKrishna',
+                songUrl: './songs/SriKrishna.mp3',
+                imageUrl: './images/songs/renzhendexue.jpg'
+            },
+            {
+                id: 6,
+                title: 'EarthMadeInEssenceSita',
+                singer: 'lucky',
+                songUrl: './songs/EarthMadeInEssenceSita.mp3',
                 imageUrl: './images/songs/yanyuan.jpg'
             }
         ]
