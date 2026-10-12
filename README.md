@@ -4,5 +4,5 @@
 #### 我的微信号：171339
 
 
-##### NO.1   [精彩美妙的旅途]( https://meditation.zhangyungang.com/  "Title")
+##### NO.1   [精彩美妙的旅途]( https://meditation.radish.cc/  "Title")
 
